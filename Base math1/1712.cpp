@@ -6,4 +6,4 @@ int main() {
     if(b>=c) printf("-1\n");
     else printf("%d\n",a/(c-b)+1);
     return 0;
-
+}
